@@ -77,7 +77,7 @@ A full-stack MERN application that helps developers practice Object-Oriented Low
    ```env
    PORT=3000
    MONGO_URI=mongodb://localhost:27017/lld-practice
-   GEMINI_API_KEY=(Expires in 30 days).
+   GEMINI_API_KEY=AQ.Ab8RN6KRwCl_IQuQOgKrTZFGho9Tobc5DAWMNPbPyx1sM1-igQ(Expires in 30 days).
    ```
 
 4. Seed the database with the initial LLD problems:
